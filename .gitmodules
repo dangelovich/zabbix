@@ -1,0 +1,3 @@
+[submodule "hue-perl"]
+	path = hue-perl
+	url = https://github.com/dwery/hue-perl.git
