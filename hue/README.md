@@ -1,5 +1,7 @@
 These scripts are for monitoring a Philips Hue installation.
 
+hue.pl is designed to be used as a Zabbix External Script. It should be installed in the ExternalScripts directory defined in zabbix_server.conf.
+
 Created by: David Angelovich <dangelovich@maxpowerindustries.com>
 Website: http://maxpowerindustries.com
 
